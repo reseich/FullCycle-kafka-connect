@@ -1,0 +1,1 @@
+# FullCycle-kafka-connect
